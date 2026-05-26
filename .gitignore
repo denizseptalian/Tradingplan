@@ -1,0 +1,6 @@
+__pycache__/
+.env
+*.log
+.DS_Store
+streamlit_app_backup.py
+.streamlit
