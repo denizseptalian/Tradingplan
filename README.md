@@ -1,4 +1,4 @@
-# Cruzer Screener
+# Tradingplan
 
 Automated stock screener & alert bot.
 
@@ -9,4 +9,4 @@ Automated stock screener & alert bot.
 
 ## Tech Stack
 - Python
-- Telegram Bot
+
